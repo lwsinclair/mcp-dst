@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/brokk-sindre-mcp-dst-badge.png)](https://mseep.ai/app/brokk-sindre-mcp-dst)
+
 # MCP Server for Danmarks Statistik
 
 En MCP server, der eksponerer Danmarks Statistiks Statistikbank API som programmerbare ressourcer, hvilket gør det nemt at integrere med sprogmodeller og moderne AI-applikationer.
